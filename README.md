@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**mariemandarin/mariemandarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌸 𝓦𝓮𝓵𝓬𝓸𝓶𝓮! ~(˘▾˘~) 🎀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! I'm Marie, a data analyst passionate about uncovering insights from data 📊✨. I'm on a journey to refine my analytical skills and build exciting projects in the world of data! 🚀
+
+---
+
+### 💕 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞
+- 📌 **Data Analytics Enthusiast**: Exploring data, finding trends, and making informed decisions!
+- 🛠 **Tech Stack**: SQL, Python (Pandas, Seaborn), A/B Testing, Data Visualization 📈
+- 🎯 **Currently Learning**: Probability & Statistics, Advanced SQL 🧠📚
+- ☁️ **Interested in**: Product analytics, experimentation, and insights-driven decisions!
+
+---
+
+### 🌷 𝐌𝐲 𝐅𝐮𝐭𝐮𝐫𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+Coming soon... ✨ Stay tuned for awesome data analysis projects! 💖
+
+---
+
+🌸 *Thanks for stopping by!* 🌸 (✿◕‿◕)
