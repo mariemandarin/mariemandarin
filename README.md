@@ -1,4 +1,4 @@
-
+<img src="https://github.com/mariemandarin/mariemandarin/blob/main/bows.gif?raw=true" width="1000">
 
 ## 🌸 𝓦𝓮𝓵𝓬𝓸𝓶𝓮! ~(˘▾˘~) 🎀
 
