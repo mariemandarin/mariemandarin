@@ -8,6 +8,7 @@
 
 Привет! Я — Мария, аналитик данных, увлечённая поиском инсайтов в данных 📊✨. Сейчас я прокачиваю свои навыки и создаю проекты в мире аналитики! 🚀
 
+
 ---
 
 ### 💕 **Обо мне**
@@ -43,7 +44,7 @@ Hi! I'm Marie, a data analyst passionate about uncovering insights from data �
 - 📌 **Data Analytics Enthusiast**: Exploring data, finding trends, and making informed decisions!
 - 🛠 **Tech Stack**: SQL, Python (Pandas, Seaborn, Matplotlib), A/B Testing, Data Visualization 📈
 - 🎯 **Currently Learning**: Probability & Statistics, Advanced SQL 🧠📚
-- ☁️ **Interested in**: Product analytics, experimentation, and insights-driven decisions!
+- ☁️ **Interested in**: Product and BI analytics, experimentation, and insights-driven decisions!
 
 ---
 
